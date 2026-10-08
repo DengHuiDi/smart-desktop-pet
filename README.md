@@ -13,6 +13,10 @@
 
 <img width="700" height="812" alt="image" src="https://github.com/user-attachments/assets/662cd81a-97b7-4703-b103-392937468e2c" />
 
+##框架
+
+
+<img width="516" height="279" alt="system" src="https://github.com/user-attachments/assets/ec138825-0c96-4977-8d40-35df59b98891" />
 
 
 
