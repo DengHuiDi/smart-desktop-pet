@@ -1,4 +1,3 @@
-<img width="1080" height="1920" alt="a5154150aa882a610c99c192d4e951a5" src="https://github.com/user-attachments/assets/0a0f1cd7-5947-47b7-b51a-e8443306ead8" /># Desk-Emoji
 
 ## 概述
 
