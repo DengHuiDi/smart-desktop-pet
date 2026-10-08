@@ -1,4 +1,4 @@
-# Desk-Emoji
+<img width="1080" height="1920" alt="a5154150aa882a610c99c192d4e951a5" src="https://github.com/user-attachments/assets/0a0f1cd7-5947-47b7-b51a-e8443306ead8" /># Desk-Emoji
 
 ## 概述
 
@@ -10,11 +10,13 @@
 * ﻿支持手势识别互动。
 * ﻿﻿支持大模型语音对话。
 
-![img](doc/image/readme/photo1.png "photo1")
-![img](doc/image/readme/photo2.png "photo2")
+<img width="1080" height="1920" alt="a5154150aa882a610c99c192d4e951a5" src="https://github.com/user-attachments/assets/806912fb-67b0-40c7-96c3-21bf91900feb" />
 
-## 系统框图
-![img](doc/image/readme/system.png "system")
+<img width="700" height="812" alt="image" src="https://github.com/user-attachments/assets/662cd81a-97b7-4703-b103-392937468e2c" />
+
+
+
+
 
 ## 资源
 
