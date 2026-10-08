@@ -28,6 +28,6 @@
 * Huidi
 * 邮箱: Huidideng@gmail.com
 
-原作者：Mark Yang
+感谢开源：Mark Yang
 邮箱：mark.yang@ewen.ltd
 
