@@ -1,0 +1,5 @@
+# Temporary download files
+*.qkdownloading
+
+# Microsoft Office lock files
+~$*
